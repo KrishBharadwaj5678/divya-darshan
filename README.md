@@ -19,6 +19,10 @@
   Experience the divine presence of Indian deities through augmented reality, bringing sacred images to life as immersive 3D experiences.
 </p>
 
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/demos/DivyaDarshan.gif" width="100%" />
+</p>
+
 <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/divider.gif" width="100%"/>
 
 ## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
