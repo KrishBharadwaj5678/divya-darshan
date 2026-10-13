@@ -7,54 +7,74 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> | 
-  <a href="README.pt.md">Português</a> | 
-  <a href="README.ja.md">日本語</a> | 
+  <a href="README.md">English</a> |
+  <a href="README.pt.md">Português</a> |
+  <a href="README.ja.md">日本語</a> |
   <a href="README.ru.md">Русский</a>
 </p>
 
-<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/icons/divyaDarshan.png" width="35"/> Divya Darshan</h1>
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/icons/divyaDarshan.png" width="35"/> Divya Darshan</h1>
 
 <p align="center">
-  Experimente a presença divina das divindades indianas através da realidade aumentada, transformando imagens sagradas em experiências 3D imersivas.
+  Experimente a presença divina das divindades indianas por meio da realidade aumentada, dando vida a imagens sagradas através de experiências 3D imersivas.
 </p>
 
 <p align="center">
-  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/demos/DivyaDarshan.gif" width="100%" />
+  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/demos/DivyaDarshan.gif" width="100%" />
 </p>
 
-<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/divider.gif" width="100%"/>
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
 
-## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/gettingStarted.gif" width="35"/> Primeiros Passos
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/features.gif" width="35"/> Funcionalidades
 
-### 1️⃣ Baixe as imagens
+| Funcionalidade | Descrição resumida |
+| --- | --- |
+| ✨ **Visualização 3D de Divindades** | Visualize um modelo 3D detalhado da divindade |
+| 🥽 **Experiência em RA** | Sinta a presença divina ao seu redor com realidade aumentada |
+| 🎯 **Rastreamento de Marcadores** | Detecte marcadores para posicionar o modelo 3D da divindade com precisão |
 
-- **Baixe as imagens** da pasta `markers` do repositório para o seu dispositivo.
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
 
-### 2️⃣ Baixe o aplicativo
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/techStack.gif" width="35"/> Tecnologias Utilizadas
 
-- [Baixe o aplicativo](https://drive.google.com/file/d/1CLGP1bK2tnEt4zZ9KtyMmMPWp12zXMqN/view?usp=sharing) usando o link fornecido no repositório.
+| Tecnologia | Finalidade |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=unity" width="25"/> **Unity** | Motor de jogos utilizado para desenvolver a experiência interativa de realidade aumentada |
+| <img src="https://skillicons.dev/icons?i=cs" width="25"/> **C#** | Implementação da lógica da aplicação, dos controles de áudio e dos recursos interativos |
+| <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/icons/vuforia.png" width="25"/> **Vuforia** | Detecta e rastreia marcadores de imagem para posicionar modelos 3D com precisão |
 
-### 3️⃣ Inicie o aplicativo
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
 
-- **Abra o aplicativo** para começar a experiência imersiva de realidade aumentada.
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/howItWorks.gif" width="35"/> Como Funciona
 
-### 4️⃣ Digitalize a imagem
+### 1️⃣ Baixe as Imagens
 
-- **Digitalize qualquer imagem baixada** usando o aplicativo para ativar a experiência de realidade aumentada.
+- **Baixe as imagens** da pasta `markers` do repositório e salve-as no seu dispositivo.
 
-### 5️⃣ Experimente em AR
+### 2️⃣ Baixe o Aplicativo
 
-- **Visualize a divindade em 3D imersivo** e vivencie a experiência através da realidade aumentada.
+- [Baixe o aplicativo](https://drive.google.com/file/d/1CLGP1bK2tnEt4zZ9KtyMmMPWp12zXMqN/view?usp=sharing) por meio do link disponibilizado no repositório.
 
-<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/divider.gif" width="100%"/>
+### 3️⃣ Abra o Aplicativo
 
-## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/license.gif" width="35"/> Licença
+- **Abra o aplicativo** para iniciar a experiência imersiva de realidade aumentada.
+
+### 4️⃣ Escaneie a Imagem
+
+- Escaneie uma imagem baixada no aplicativo para ativar a realidade aumentada.
+
+### 5️⃣ Explore a Realidade Aumentada
+
+- Explore a divindade em 3D com realidade aumentada imersiva.
+
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/license.gif" width="35"/> Licença
 
 Este projeto está licenciado sob a **Licença MIT**.
 
-Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
 <p align="center">
-  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/footer.gif" width="320px"/>
+  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/footer.gif" width="320px"/>
 </p>
