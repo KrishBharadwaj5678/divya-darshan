@@ -69,12 +69,12 @@
 
 <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
 
-## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/license.gif" width="35"/> License
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/license.gif" width="35"/> License
 
 This project is licensed under the **MIT License**.
 
 See the [LICENSE](LICENSE) file for more details.
 
 <p align="center">
-  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/footer.gif" width="320px"/>
+  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/footer.gif" width="320px"/>
 </p>
