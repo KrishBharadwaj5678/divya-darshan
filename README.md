@@ -13,19 +13,39 @@
   <a href="README.ru.md">Русский</a>
 </p>
 
-<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/icons/divyaDarshan.png" width="35"/> Divya Darshan</h1>
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/icons/divyaDarshan.png" width="35"/> Divya Darshan</h1>
 
 <p align="center">
   Experience the divine presence of Indian deities through augmented reality, bringing sacred images to life as immersive 3D experiences.
 </p>
 
 <p align="center">
-  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/demos/DivyaDarshan.gif" width="100%" />
+  <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/demos/DivyaDarshan.gif" width="100%" />
 </p>
 
-<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/divider.gif" width="100%"/>
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
 
-## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/features.gif" width="35"/> Features
+
+| Feature | Short Description |
+| --- | --- |
+| ✨ **3D Deity Visualization** | View a detailed 3D model of the deity |
+| 🥽 **AR Experience** | Experience the deity in your real-world surroundings |
+| 🎯 **Marker Tracking** | Detect markers to accurately position the 3D deity |
+
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/techStack.gif" width="35"/> Tech Stack
+
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=unity" width="25"/> **Unity** | Game engine for building the interactive AR experience |
+| <img src="https://skillicons.dev/icons?i=cs" width="25"/> **C#** | Scripting application logic, audio controls, and interactive features |
+| <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/icons/vuforia.png" width="25"/> **Vuforia** | Detects and tracks image markers to accurately place 3D models |
+
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/howItWorks.gif" width="35"/> How It Works
 
 ### 1️⃣ Download the Images
 
@@ -47,7 +67,7 @@
 
 - **View the deity in immersive 3D** and experience it through augmented reality.
 
-<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/divider.gif" width="100%"/>
+<img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/readme/gifs/divider.gif" width="100%"/>
 
 ## <img src="https://github.com/KrishBharadwaj5678/divya-darshan/raw/main/assets/readme/license.gif" width="35"/> License
 
